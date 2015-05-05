@@ -1,1 +1,3 @@
 # visual-studio-settings
+
+My `.vssettings` file => your mileage my vary...  
